@@ -1,0 +1,6 @@
+{
+  "name": "AETHER — 스마트 하드웨어 & 솔루션 커머스",
+  "description": "차세대 디스플레이, 공간 오디오, 스마트 홈 아키텍처 솔루션을 탐색하고 정밀 비교·구성할 수 있는 모던 하드웨어 커머스 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
